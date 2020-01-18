@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Cookie', 'cursive';
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+#header-main i {
+    color: #4876FF;
+}
+
+.cookie-container {
+    background: #fff;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+#cookie i {
+    color: #4876FF;
+    padding: 1rem 0;
+}
+
+#cookie h1 {
+    font-size: 2rem;
+}
+
+.py-1 {
+    padding: 2rem;    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.text-center {
+    text-align: center;
+}
+
